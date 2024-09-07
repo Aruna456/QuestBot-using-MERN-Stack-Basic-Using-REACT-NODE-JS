@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build output
+build/
+
+# React specific cache and logs
+.cache/
+.next/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Testing
+coverage/
+
+# NPM package lock file (Optional, if you use Yarn instead)
+package-lock.json
+
+# Yarn lock file (Optional, if you use npm instead)
+yarn.lock

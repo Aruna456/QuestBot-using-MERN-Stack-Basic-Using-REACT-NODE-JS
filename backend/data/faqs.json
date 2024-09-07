@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is the MERN stack?",
+        "answer": "The MERN stack is a combination of technologies used for web development. It includes MongoDB (a NoSQL database), Express.js (a web application framework for Node.js), React.js (a front-end library for building user interfaces), and Node.js (a JavaScript runtime environment)."
+    },
+    {
+        "question": "What are the advantages of using React.js in the MERN stack?",
+        "answer": "React.js is a powerful front-end library for building user interfaces. It allows developers to create reusable UI components, manage application state efficiently, and build interactive and dynamic web applications with a virtual DOM."
+    },
+    {
+        "question": "What is the purpose of the MVC architecture in the MERN stack?",
+        "answer": "The Model-View-Controller (MVC) architecture is used to separate an application into three interconnected components. In the MERN stack, MongoDB serves as the Model (data), Express.js and Node.js handle the Controller (logic and API), and React.js manages the View (user interface)."
+    },
+    {
+        "question": "How do I set up a basic MERN stack application?",
+        "answer": "To set up a basic MERN stack application, you need to: 1. Set up a MongoDB database and connect it to your application. 2. Create a Node.js and Express.js server to handle API requests. 3. Develop a React.js front-end to interact with the API and display data. 4. Connect all components together to ensure data flows correctly between the front-end and back-end."
+    }
+]
